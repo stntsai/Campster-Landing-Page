@@ -1,12 +1,13 @@
 # Campster-Landing-Page
 Landing page (static) of Campsters, a made-up startup name 
 
+
 Built with:
 
-  HTML/ CSS/ Bootstrap
+	HTML/ CSS/ Bootstrap
 
 Acknowledgments:
 
-  Photo credit: Unsplash
+	Photo credit: Unsplash
 
-  Course contributer: Colt Steele on Udemy
+	Course contributer: Colt Steele on Udemy
